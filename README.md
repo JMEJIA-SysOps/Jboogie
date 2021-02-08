@@ -1,6 +1,6 @@
 # Jboogie
-Project-One
-provider "aws" {
+
+ provider "aws" {
  region = "us-east-1"
  access_key = "AKIAJL2SEKNGQ4PEKNSA"
  secret_key = "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"
